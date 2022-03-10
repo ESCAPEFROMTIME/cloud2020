@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7989fa3f-d5a5-46ba-afc2-7a32c2df6914" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="7989fa3f-d5a5-46ba-afc2-7a32c2df6914" name="Changes" comment="springcloud第一次提交本地库">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -251,7 +252,18 @@
       <workItem from="1646895499959" duration="402000" />
       <workItem from="1646895937632" duration="1078000" />
       <workItem from="1646897038834" duration="552000" />
+      <workItem from="1646897607986" duration="465000" />
+      <workItem from="1646898245007" duration="737000" />
+      <workItem from="1646899075880" duration="314000" />
     </task>
+    <task id="LOCAL-00001" summary="springcloud第一次提交本地库">
+      <created>1646897942223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646897942223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +285,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="springcloud第一次提交本地库" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud第一次提交本地库" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
