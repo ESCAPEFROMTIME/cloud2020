@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7989fa3f-d5a5-46ba-afc2-7a32c2df6914" name="Changes" comment="springcloud第一次提交本地库">
+    <list default="true" id="7989fa3f-d5a5-46ba-afc2-7a32c2df6914" name="Changes" comment="v2.0">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/atguigu/springcloud/ConfigCenterMain3344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/atguigu/springcloud/GateWayMain9527.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/atguigu/springcloud/GateWayMain9527.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +67,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="25mlpqCVk3g4iVfS5JlKon9mB8l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,13 +82,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.123609394" />
     <property name="project.structure.side.proportion" value="0.3214286" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -91,7 +111,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GateWayMain9527">
+  <component name="RunManager" selected="Spring Boot.ConfigCenterMain3344">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +119,19 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-center-3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigCenterMain3344" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,19 +165,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.GateWayMain9527" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumer-feign-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderFeignMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigCenterMain3344" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.GateWayMain9527" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.PaymentHystrixMain80" />
-        <item itemvalue="Spring Boot.OrderFeignMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +274,7 @@
       <workItem from="1646897038834" duration="552000" />
       <workItem from="1646897607986" duration="465000" />
       <workItem from="1646898245007" duration="737000" />
-      <workItem from="1646899075880" duration="314000" />
+      <workItem from="1646899075880" duration="6099000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud第一次提交本地库">
       <created>1646897942223</created>
@@ -263,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646897942223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v2.0">
+      <created>1646899625086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646899625086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +313,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="springcloud第一次提交本地库" />
-    <option name="LAST_COMMIT_MESSAGE" value="springcloud第一次提交本地库" />
+    <MESSAGE value="v2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
